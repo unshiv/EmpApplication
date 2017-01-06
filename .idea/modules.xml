@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CollectionLibrarry/CollectionLibrarry.iml" filepath="$PROJECT_DIR$/CollectionLibrarry/CollectionLibrarry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmpApplication.iml" filepath="$PROJECT_DIR$/EmpApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JdbcLibrary/JdbcLibrary.iml" filepath="$PROJECT_DIR$/JdbcLibrary/JdbcLibrary.iml" />
+    </modules>
+  </component>
+</project>
